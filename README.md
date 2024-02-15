@@ -20,8 +20,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 3. Abra a pasta no VSCode.
 
-4. Por fim, rode o código do arquivo (Geral.py) utilizando o seguinte comando:
-   python Geral.py //Exemplo, pois pode rodar os outros códigos disponíveis.
+4. Por fim, rode o projeto  utilizando o seguinte comando:
+   python npm start
 
 
 ## Contato 📞
